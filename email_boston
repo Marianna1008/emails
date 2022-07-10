@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+    <!-- Help character display properly. -->
+    <meta charset="utf-8">
+    <!-- Force some Outlook clients to render with a better MS engine. -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Set the initial scale of the email. -->
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <!-- Help prevent blue links and autolinking if needed. -->
+    <meta name="format-detection" content="telephone=no, date=no, address=no, email=no">
+    <!-- Prevent Apple from reformatting and zooming messages. -->
+    <meta name="x-apple-disable-message-reformatting">
+    <!-- Use the title for assistive technology and when people open emails in a browser tab.  -->
+    <title>Email Boston</title>
+    <!-- Allow for better image rendering on Windows hi-DPI displays. -->
+    <!--[if mso]>
+    <xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <style>
+        /* Client-specific reset styles. */
+        body,
+        table,
+        td,
+        a {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+
+        table,
+        td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic;
+        }
+         /* Responsive styles taking a desktop-first approach. */
+        @media screen and (max-width: 600px) {}
+
+        /* General reset styles. */
+        body {
+        max-width: 600px;  
+        font-family: Arial, sans-serif; 
+        margin: 0 auto;   
+        }
+       .wrapper{
+        width: 100%;
+        table-layout: fixed;
+        background-color:#fff;
+        padding-bottom: 50px;
+       } 
+       .main{
+        background-color: #fff;
+        margin: 0 auto;
+        width: 100%;
+        max-width: 600px;
+        border-spacing: 0;
+       }
+       
+       .column{
+        max-width: 300px;
+        width: 50%;
+        vertical-align: centre;
+       }
+       .three-columns{
+        text-align: center;
+        font-size: 0;
+        padding: 15px 0 25px;
+       }
+       .three-columns .column{
+        width: 100%;
+        max-width: 190px;
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+       }
+       
+       .two-columns-last .column{
+        width: 100%;
+        max-width: 290px;
+        display: inline-block;
+        vertical-align: top;        
+       }
+       .btn-white{
+        background-color: #D9D9D9;
+        color: #3B4E66;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        text-decoration: none;
+        padding: 10px 40px;
+        border-radius: 6px;             
+       }   
+       .btn-white:hover{ 
+        background-color: #fff;
+        } 
+            
+       .btn-dark{        
+        background-color: #3B4E66;
+        color: #D9D9D9;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        text-decoration: none;
+        padding: 12px 90px;
+        border-radius: 6px;
+        
+       }
+       .btn-dark:hover{
+        background-color: #D9D9D9;
+        color: #3B4E66;
+         border: 2px solid #3B4E66;
+       }
+       .districts{
+        margin-bottom: 50px;
+       }
+    .icon{
+        filter: contrast(0%);
+        -webkit-filter: contrast(0%);
+    }   
+       
+    </style>
+</head>
+<body>
+   <center class="wrapper">
+        <table class="main" width="100%">
+          <tr>
+                <td height="10" style="background-color:#3B4E66; margin: 0; padding: 0;"> </td>
+          </tr>
+          <tr>
+                <td>
+                    <table width="100%">
+                        <tr>
+                            <td class="two-columns" >
+                                <table width="100%">
+                                    <tr>
+                                        <td class="column" align="left">
+                                            <a href="#" target="_blank"><img src="https://my-bucket-1008.s3.amazonaws.com/City+of+Boston.png" alt="City of Boston" style="max-width: 150px ; margin: 5px 0 0 20px;"</a>
+                                        </td>
+                                        <td class="column" align="right" >
+                                            <table>
+                                                <tr>
+                                                    <td>
+                                                        <a href="#" target="_blank"><img src="https://my-bucket-1008.s3.amazonaws.com/tw.png" alt="twit" width="18"  style="padding: 0 15px;"></a>
+                                                        <a href="#" target="_blank"><img src="https://my-bucket-1008.s3.amazonaws.com/fb.png" alt="fb" width="18" style="padding: 0 15px;"></a>
+                                                        <a href="#" target="_blank"><img src="https://my-bucket-1008.s3.amazonaws.com/in.png" alt="inst" width="18" style="padding: 0 15px;"></a>
+                                                    </td>
+                                                </tr>                                                
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                                
+                            </td>
+                        </tr>
+
+                    </table>
+                </td>
+          </tr>
+          <tr>
+            <td>
+                <a href="#" target="_blank"><img src="https://my-bucket-1008.s3.amazonaws.com/boston-1.png" alt="Boston" width="600" style="max-width:100% ;"></a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                <table width="100%">
+                    <tr>
+                        <td class="three-columns">
+                            <table class="column">
+                                <tr>
+                                    <td>
+                                        <table class="content">
+                                            <tr>
+                                                <td>
+                                                <a href="#" target="_blank"><img src="https://my-bucket-1008.s3.amazonaws.com/restaurants.png" alt="Restaurant" width="70" style="max-width: 130px;"></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p style="font-weight: bold; font-size: 20px; line-height: 24px; color: #3B4E66; margin: 10px 0;">
+                                                        Restaurants
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p style="font-weight: 300; font-size: 15px; line-height: 18px; color: #3B4E66; margin: 0;">
+                                                        There are plenty of place with a variety of delicious dishes.
+                                                    </p>
+                                                </td>
+                                            </tr>
+
+                                        </table>
+                                    </td>
+                                </tr>
+
+                            </table>
+                            <table class="column">
+                                <tr>
+                                    <td>
+                                        <table class="content">
+                                            <tr>
+                                                <td>
+                                                    <a href="#" target="_blank"><img src="https://my-bucket-1008.s3.amazonaws.com/hotels.png"
+                                                            alt="Restaurant" width="70" style="max-width: 130px;"></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p style="font-weight: bold; font-size: 20px; line-height: 24px; color: #3B4E66; margin: 10px 0;">
+                                                        Hotels
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p style="font-weight: 300; font-size: 15px; line-height: 18px; color: #3B4E66; margin: 0;">
+                                                        There is no better way to stay in the heart of the historic city center.
+                                                    </p>
+                                                </td>
+                                            </tr>
+                            
+                                        </table>
+                                    </td>
+                                </tr>
+                            
+                            </table>
+                            <table class="column">
+                                <tr>
+                                    <td>
+                                        <table class="content">
+                                            <tr>
+                                                <td>
+                                                    <a href="#" target="_blank"><img src="https://my-bucket-1008.s3.amazonaws.com/attractions.png"
+                                                            alt="Restaurant" width="70" style="max-width: 130px;"></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p style="font-weight: bold; font-size: 20px; line-height: 24px; color: #3B4E66;margin: 10px 0;">
+                                                        Attractions
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p style="font-weight: 300; font-size: 15px; line-height: 18px; color: #3B4E66; margin: 0;">
+                                                        See the most popular sights of Boston at your own pace.
+                                                    </p>
+                                                </td>
+                                            </tr>
+                            
+                                        </table>
+                                    </td>
+                                </tr>
+                            
+                            </table>
+
+                        </td>
+                    </tr>
+
+                </table>
+            </td>
+          </tr>
+          <tr>
+            <td style="background-color: rgba(59, 78, 102, 0.9); color: #D9D9D9; ">
+                <table width="100%">
+                    <tr>
+                        <td class="two-columns-last">
+                            <table class="column">
+                                <tr>
+                                    <td>
+                                        <table class="content">
+                                            <tr>
+                                                <td>
+                                                <img src="https://my-bucket-1008.s3.amazonaws.com/boston-2.png" alt="Boston"
+                                                        width="270" style="max-width: 270px;">
+                                                </td>
+                                            </tr>
+
+                                        </table>
+                                    </td>
+                                </tr>
+
+                            </table>
+                            <table class="column">
+                                <tr>
+                                    <td>
+                                        <table class="content">
+                                            <tr>
+                                                <td>
+                                                    <p style="font-weight: bold; font-size: 20px; line-height: 24px; color: #D9D9D9; margin: 0; ">
+                                                        Boston
+                                                    </p>
+                                                    <p style="font-weight: 300; font-size: 15px; line-height: 18px; color: #D9D9D9; text-align: justify; margin-bottom: 30px;">
+                                                        It is the capital and the largest city in the state of Massachusetts. This city is in the top 10 oldest and wealthiest
+                                                        cities in America.
+                                                    </p>
+                                                    <a href="#" class="btn-white">Read More Facts</a>                                                      
+                                                </td>
+                                            </tr>
+                            
+                                        </table>
+                                    </td>
+                                </tr>
+                                                            
+                            </table>
+                            
+                        </td>
+                    </tr>                    
+
+                </table>
+            </td>
+          </tr>
+            <tr>
+                <td>
+                    <table width="100%" class="districts">
+                        <tr>
+                            <td style="text-align: center;">
+                                <p style="font-weight: 600; font-size: 20px; line-height: 24px; color: #3B4E66; margin-top: 30px;">Districts in Boston
+                                </p>
+                                
+                            </td>
+                        </tr>
+                        <tr>
+                            <td >
+                                
+                                <p style= "font-weight: 300; font-size: 15px; line-height: 18px; color: #3B4E66; text-align: justify; margin: 0 30px 40px 30px;">Boston consists of 28 boroughs. One of the most popular is Chinatown, with a variety of Chinese and
+                                    Vietnamese cafes and
+                                    markets. <br><br>
+                        
+                                    Charlestown with the most beautiful streets and red brick houses; Beacon Hill, where the oldest government
+                                    house is
+                                    located; financial district, which offers not only banks, but also a huge aquarium. <br><br>
+                        
+                                    North End is actually called "Little Italy" due to the peculiar old architectural buildings. These houses
+                                    were built by
+                                    immigrants from Europe and most of them were Italian.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">                        
+                                <a href="#" class="btn-dark">View Fotos</a>
+                            </td>
+                        </tr>            
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:rgba(59, 78, 102, 0.9); padding-bottom: 30px;">
+                    <table width="100%">
+                        <tr>
+                            <td style="text-align: center; color: #D9D9D9;">
+                                <p style="font-weight: 600; font-size: 18px; line-height: 24px;  margin: 20px auto;"> City of Boston
+                                </p>
+                                <p style="font-weight: 300; font-size: 15px; line-height: 18px;  ">Create your happy time with️ us ❤
+                                </p>
+                                <p style="font-weight: 300; font-size: 15px; line-height: 18px; ">Follow us on social media:
+                                </p>
+                                <a href="#" target="_blank"><img src="https://my-bucket-1008.s3.amazonaws.com/tw.png" alt="twit" width="18" class="icon"
+                                        style="padding: 0 15px; "></a>
+                                <a href="#" target="_blank"><img src="https://my-bucket-1008.s3.amazonaws.com/fb.png" alt="fb" width="18" class="icon"
+                                        style="padding: 0 15px;"></a>
+                                <a href="#" target="_blank"><img src="https://my-bucket-1008.s3.amazonaws.com/in.png" alt="inst" width="18" class="icon"
+                                        style="padding: 0 15px;"></a>
+                                <p>If you're just tired of hearing from us, you can <a href="#" style="color: #D9D9D9;">unsubscribe</a></p>                                
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+   </center>
+</body>
+</html>
+ 
